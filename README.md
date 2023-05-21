@@ -20,11 +20,8 @@
 
 
 # Models
-| **Classifiers** | **precision** | **recall** | **f1-score** | **accuracy** |
+| **Classifiers**  | **accuracy** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Logistic Regression** | 0.802548 | 0.992126 | 0.887324 | 0.827027 |
-| **Support Vector** | 0.802548 | 0.992126 | 0.887324 | 0.827027 |
-| **Decision Tree** | 0.815789 | 0.976378 | 0.888889	 | 0.832432 |
-| **Random Forest** | 0.802548 | 0.992126 | 0.887324 | 0.827027 |
-| **KNeighbors** | 0.715909 | 0.992126 | 0.831683 | 0.724324 |
-| **XGboost** | 0.796178 | 0.984252 | 0.880282 | 0.816216 |
+| **Logistic Regression** | 0.77 |
+| **Decision Tree** | 0.69 |
+| **Random Forest** | 0.78 |
