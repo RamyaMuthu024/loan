@@ -21,7 +21,7 @@
 
 # Models
 | **Classifiers**  | **accuracy** |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- |
 | **Logistic Regression** | 0.77 |
 | **Decision Tree** | 0.69 |
 | **Random Forest** | 0.78 |
